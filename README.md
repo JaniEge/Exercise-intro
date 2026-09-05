@@ -1,5 +1,7 @@
 ### Steps for solving exercises and assignments
 
+TEXT
+
 1. First press the green button on the right called "Use this template" > "Create a new repository" > Set it as private.
 2. Once you have a copy repository, add us as collaborators through **Settings > Collaborators > Add people** > Insert the following emails: msia@itu.dk, jaga@itu.dk, admchai@itu.dk.
 3. You can now open a *codespace* by pressing the button **<> Code**, then click on **Codespaces**, then **Create codespace on main**.
